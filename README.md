@@ -1,3 +1,7 @@
+Basic token authentication application.
+If you don't know how to setup and run a laravel project checkout here : <a href="https://laravel.com/docs/8.x">Laravel 8.x Docs</a>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
